@@ -11,7 +11,7 @@ rows:
   metrics:
     accuracy: 84.3
     display_accuracy: 84.3%
-    uncached_input_tokens: 52534874
+    uncached_input_tokens: 4420832
     cached_input_tokens: 48114042
     output_tokens:  1450667
     total_tokens: 53985541
